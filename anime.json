@@ -1,0 +1,25 @@
+{
+    "completed": [
+        {
+            "title": "Test Completed Title",
+            "image": "/home/unrealdragon/Pictures/SS.png",
+            "rating": "0/10",
+            "myrating": "1/10",
+            "dateadded": "04/02/23",
+            "details": {
+            "summary": "Random lorem ipsum summary",
+            "studio" : [
+                "random studio 1",
+                "random studio 2"
+            ],
+            "publisher": "random publisher 1" 
+            }
+        }
+    ],
+    "dropped": [
+
+    ],
+    "watching":[
+
+    ]
+}

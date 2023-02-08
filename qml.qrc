@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AnimeTab.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Add.png</file>
+        <file>noimage.jpg</file>
+        <file>noimage.png</file>
+    </qresource>
+</RCC>
